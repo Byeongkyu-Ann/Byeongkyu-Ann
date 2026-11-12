@@ -13,7 +13,7 @@
 
 <br>
 
-🤖 **Research Experience**
+🏛️ **Research Experience**
 - Robotics & A.I. Laboratory, Department of Robotics, Kwangwoon University (April 2026 – Present)
 
 <br>
