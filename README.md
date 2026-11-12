@@ -13,6 +13,19 @@
 
 <br>
 
+<h2 align="center">🧑‍💻 Contact me 🧑‍💻</h2>
+
+<div align="center">
+  <a href="https://app.notion.com/p/416be96ccd41806da05bd7d9b6305212?source=copy_link">
+    <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  </a>
+  <a href="mailto:manyou2002@naver.com">
+    <img src="https://img.shields.io/badge/manyou2002@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+  </a>
+</div>
+
+<br>
+
 🏛️ **Research Experience**
 - Robotics & A.I. Laboratory, Department of Robotics, Kwangwoon University (April 2026 – Present)
 
@@ -43,19 +56,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white">
-</div>
-
----
-
-## 🧑‍💻 Contact me
-
-<div align="center">
-  <a href="https://app.notion.com/p/416be96ccd41806da05bd7d9b6305212?source=copy_link">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-  </a>
-  <a href="mailto:manyou2002@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white">
-  </a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141f39,100:205bd9&height=100&section=footer" width="100%" />
