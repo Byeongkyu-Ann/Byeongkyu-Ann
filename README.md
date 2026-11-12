@@ -13,7 +13,11 @@
 
 <br>
 
-<h2 align="center">🧑‍💻 Contact me 🧑‍💻</h2>
+<div align="center">
+  <b>📬 Contact me 📬</b>
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://app.notion.com/p/416be96ccd41806da05bd7d9b6305212?source=copy_link">
