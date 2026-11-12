@@ -11,6 +11,13 @@
 
 **Key Focus:** 3D LiDAR SLAM 및 자율주행 알고리즘을 비롯해, 제한된 환경에서 동작하는 효율적인 임베디드 AI와 실생활에 기여할 수 있는 로봇 시스템을 연구합니다.
 
+<div align="center">
+  <a href="https://app.notion.com/p/CV-416be96ccd4180a3935aff89de5d4f80?source=copy_link"><img src="https://img.shields.io/badge/CV-205bd9?style=for-the-badge"></a>
+  <a href="https://app.notion.com/p/Publications-416be96ccd41801bbd46f035e8773015?source=copy_link"><img src="https://img.shields.io/badge/Publications-205bd9?style=for-the-badge"></a>
+  <a href="https://app.notion.com/p/Awards-416be96ccd41806aae2befc8c1637aad?source=copy_link"><img src="https://img.shields.io/badge/Awards-205bd9?style=for-the-badge"></a>
+  <a href="https://app.notion.com/p/PROJECTS-EXPERIENCE-416be96ccd418045aa7eef9456df72ff?source=copy_link"><img src="https://img.shields.io/badge/Projects%20%2F%20Experience-205bd9?style=for-the-badge"></a>
+</div>
+
 ---
 
 ## 🛠️ Tech Stacks
@@ -36,3 +43,5 @@
     <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white">
   </a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141f39,100:205bd9&height=100&section=footer" width="100%" />
