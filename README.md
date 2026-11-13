@@ -23,6 +23,9 @@
   <a href="https://app.notion.com/p/Byeongkyu-Ann-bf6be96ccd41823eac168107097c8be6?source=copy_link">
     <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
+  <a href="https://www.linkedin.com/in/byeongkyu-ann/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
   <a href="mailto:manyou2002@naver.com">
     <img src="https://img.shields.io/badge/manyou2002@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
   </a>
