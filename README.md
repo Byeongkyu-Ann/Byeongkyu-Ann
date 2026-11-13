@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-  <a href="https://app.notion.com/p/416be96ccd41806da05bd7d9b6305212?source=copy_link">
+  <a href="https://app.notion.com/p/Byeongkyu-Ann-bf6be96ccd41823eac168107097c8be6?source=copy_link">
     <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
   <a href="mailto:manyou2002@naver.com">
@@ -43,10 +43,10 @@
 <br>
 
 <div align="center">
-  <a href="https://app.notion.com/p/CV-416be96ccd4180a3935aff89de5d4f80?source=copy_link"><img src="https://img.shields.io/badge/CV-205bd9?style=for-the-badge"></a>
-  <a href="https://app.notion.com/p/Publications-416be96ccd41801bbd46f035e8773015?source=copy_link"><img src="https://img.shields.io/badge/Publications-205bd9?style=for-the-badge"></a>
-  <a href="https://app.notion.com/p/Awards-416be96ccd41806aae2befc8c1637aad?source=copy_link"><img src="https://img.shields.io/badge/Awards-205bd9?style=for-the-badge"></a>
-  <a href="https://app.notion.com/p/PROJECTS-EXPERIENCE-416be96ccd418045aa7eef9456df72ff?source=copy_link"><img src="https://img.shields.io/badge/Projects%20%2F%20Experience-205bd9?style=for-the-badge"></a>
+  <a href="https://app.notion.com/p/View-Download-CV-Click-417be96ccd41800b886ddcc44d624187?source=copy_link"><img src="https://img.shields.io/badge/CV-205bd9?style=for-the-badge"></a>
+  <a href="https://app.notion.com/p/Byeongkyu-Ann-bf6be96ccd41823eac168107097c8be6?source=copy_link"><img src="https://img.shields.io/badge/Publications-205bd9?style=for-the-badge"></a>
+  <a href="https://app.notion.com/p/Byeongkyu-Ann-bf6be96ccd41823eac168107097c8be6?source=copy_link"><img src="https://img.shields.io/badge/Awards-205bd9?style=for-the-badge"></a>
+  <a href="https://app.notion.com/p/Byeongkyu-Ann-bf6be96ccd41823eac168107097c8be6?source=copy_link"><img src="https://img.shields.io/badge/Projects%20%2F%20Experience-205bd9?style=for-the-badge"></a>
 </div>
 
 ---
