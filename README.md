@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="banner.jpg" width="100%" />
+  <img src="banner.png" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141f39,100:205bd9&height=120&text=Shaped%20by%20Environment,%20Driven%20by%20Effort.&animation=fadeIn&fontColor=ffffff&fontSize=28&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141f39,100:205bd9&height=120&text=Shaped%20by%20Environment,%20Driven%20by%20Effort.&animation=fadeIn&fontColor=ffffff&fontSize=28&fontAlignY=25" width="100%" />
 </div>
 
 ## Byeongkyu Ann | 안병규
