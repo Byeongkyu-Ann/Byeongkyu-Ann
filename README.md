@@ -30,8 +30,8 @@
   <a href="https://www.linkedin.com/in/byeongkyu-ann/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
-  <a href="mailto:manyou2002@naver.com">
-    <img src="https://img.shields.io/badge/manyou2002@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+  <a href="mailto:byeongkann@gmail.com">
+    <img src="https://img.shields.io/badge/byeongkann@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
 </div>
 
